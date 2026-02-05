@@ -3,7 +3,7 @@ Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language 
 
 We integrate Vision modality into our method, and code is available at: https://github.com/glee220/trajectory_prediction
 
-
+If you think this work useful, welcome to cite
 ```
 @inproceedings{liu2025harnessing,
   title={Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction},
